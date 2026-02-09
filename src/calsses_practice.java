@@ -20,8 +20,8 @@ public class calsses_practice {
         System.out.println("The name of the employee1 is "+employee1.getName());
         System.out.println("The salary of "+employee1.name+" is "+employee1.getSalary()); 
         employee1.setName("jai");
-        System.out.println("The name of the employee1 is "+employee1.getName());
         
+        System.out.println("The name of the employee1 is "+employee1.getName());
     }
     
 }
