@@ -23,7 +23,9 @@ class derived1 extends base1 {
     }
 
     derived1(int y) {
-        super(y);
+        super(y); // super() keyword is used to refer to the the constructor of the superclass and
+                  // it takes arguments and calls the superclass overloaded constructor based दn
+                  // the number of parameters passed
         this.y = y;
     }
 }
