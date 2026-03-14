@@ -87,7 +87,7 @@ public class library {
                 s.nextLine();
                 String bookname = s.nextLine();
                 func.addbook(bookname);
-            } else {
+            } else {h
                 break;
             }
 
